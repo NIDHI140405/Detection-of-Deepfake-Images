@@ -29,9 +29,9 @@ Deepfake technology has advanced significantly, posing a threat by enabling the 
 
 DATASET
 
-We used a comprehensive dataset comprising both real and deepfake images for training and validation. The dataset is split into training, validation, and testing sets. 
+We used a comprehensive dataset comprising both real and deepfake images for training and validation.
 
-Training Set: https://drive.google.com/drive/folders/12N2MgmFcQdM-NdWeL_hIwNJF_NjYH1MG?usp=share_link 
+DATA SET : https://drive.google.com/drive/folders/12N2MgmFcQdM-NdWeL_hIwNJF_NjYH1MG?usp=share_link 
 
 Model Architecture 
 
