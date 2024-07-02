@@ -74,6 +74,7 @@ Test Accuracy: Between 88% to 94%
 These results indicate the model's efficacy in distinguishing between real and deepfake images. 
 
 INSTALLATION
+
 To get started, clone this repository and install the required dependencies:
 
 git clone https://github.com/yourusername/deepfake-detection.git
@@ -81,6 +82,7 @@ cd deepfake-detection
 pip install -r requirements.txt
 
 ACKNOWLEDGEMENT
+
 We would like to thank the following resources and communities:
 
 TensorFlow
